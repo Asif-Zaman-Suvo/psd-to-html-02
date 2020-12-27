@@ -1,0 +1,32 @@
+.footer{
+    background-color: #252C3A;
+    height: 55vh;
+}
+
+.icons{
+    color: #4A4A4A;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.icons:hover{
+    color: #0089FD;
+}
+
+.hrline{
+    background: #4A4A4A;
+}
+
+.footerButton{
+    border: none;
+    background: #43CB83;
+    color: white;
+    cursor: pointer;
+}
+
+.form-control2{
+    border-bottom: 1;
+    border-top: 1;
+    border-left:1;
+    border-right: 1;
+}

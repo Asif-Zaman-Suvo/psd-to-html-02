@@ -3,7 +3,7 @@
     height: 40vh;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover;        
 }
 
 .applyHeader{
@@ -23,4 +23,22 @@
     text-transform: uppercase;
     color: #ADA5B9;
 
+}
+
+.formBG{
+    background-image: url('../../Images/formBg.png');
+    height: 90vh;
+    background-position: bottom ;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+
+.form-control {
+    border-bottom: 2;
+    border-top: 0;
+    border-left:0;
+    border-right: 0;
+    background: transparent;
+    
 }
