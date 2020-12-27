@@ -1,0 +1,26 @@
+.ApplyBg{
+    background-image: url('../../Images/middle.png');
+    height: 40vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.applyHeader{
+   
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+
+
+}
+
+.spanParagraph{
+    color: red;
+
+}
+
+.applyParagraph{
+    text-transform: uppercase;
+    color: #ADA5B9;
+
+}
